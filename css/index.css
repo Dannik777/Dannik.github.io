@@ -1,0 +1,44 @@
+#header-center-carousel-single {
+    background: linear-gradient(135deg, #ff2c76, #07bcf7);
+    background: -webkit-linear-gradient(315deg, #ff2c76, #07bcf7);
+}
+
+#header-center-carousel-single .bg {
+    background-image: url('../images/bg-sky-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+}
+#desc-card-3col-2 {
+	background: #733f85;
+}
+
+#desc-card-3col-2 .bg {
+	background-image: url('../images/bg-wood-6.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.05;
+}#action-img-text-btn {
+    background: linear-gradient(135deg, #C8F1FF, #FFFFEA);
+    background: -webkit-linear-gradient(315deg, #C8F1FF, #FFFFEA);
+}
+
+#action-img-text-btn .bg{
+    background-image: url('../images/bg-26.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.1;
+}#step-ltr-form-img-text-start {
+    background: #72c9ff;
+}#counter-halfbg-timer .half-container-left {
+    background-image: url('../images/bg-blur-2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
